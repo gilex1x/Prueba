@@ -6,9 +6,9 @@ body{
 }
 
 #cabecera{
-    color: darkblue;
+    color: rgb(255, 255, 255);
     font-family: 'Times New Roman';
-    background-color: aqua;
+    background-color: rgb(62, 82, 87);
     margin: 0;
     padding: 0.8em;
 
