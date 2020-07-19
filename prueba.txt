@@ -2,4 +2,6 @@ Este es un archivo de prueba
 esto es un cambio 
 y este es el tercer canbio al archivo 
 
+CAMBIO 1
+CAMBIO 2
 Ahora me dio por escribir un poco sobre mi.
