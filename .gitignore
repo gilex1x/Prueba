@@ -1,4 +1,4 @@
 #Ignora los .jpg
-*.jpg
+Imagenes/*.jpg
 #Ignora los png
-*.png
+Imagenes/*.png
